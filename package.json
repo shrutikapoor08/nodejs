@@ -1,11 +1,24 @@
 {
   "name": "@shrutikapoor/nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "",
+  "author": "Shruti Kapoor",
   "license": "ISC",
-  "description": ""
+  "description": "'A NodeJS package'",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrutikapoor08/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/shrutikapoor08/nodejs/issues"
+  },
+  "homepage": "https://github.com/shrutikapoor08/nodejs#readme"
 }
